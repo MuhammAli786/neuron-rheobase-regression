@@ -1,0 +1,4 @@
+.venv/
+cell_types/
+.ipynb_checkpoints/
+.DS_Store
